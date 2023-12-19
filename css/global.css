@@ -31,7 +31,7 @@ main .hero, .contacts{
 
 .hero .title{
     font-family: 'Mochiy Pop One', sans-serif;
-    color: var(--prmary-color-normal);
+    color: var(--primary-color-normal);
     font-size: 4rem;
 }
 
